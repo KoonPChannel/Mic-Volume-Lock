@@ -1,0 +1,14 @@
+# Compiled executables and archives
+*.exe
+*.zip
+*.7z
+*.log
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local runtime settings (stored in AppData by the application)
+settings.json
